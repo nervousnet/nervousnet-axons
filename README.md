@@ -24,7 +24,7 @@ Call these local URLs from within the Axon code to get real time sensor data of 
 
 ## Documentation
    * [Nervousnet Android App Docs](https://github.com/nervousnet/nervousnet-android/tree/master/Documents)
-   * [Nervousnet iOS App Docs](http://nervousnet.github.io/nervousnet-iOS/docs/jazzy/)
+   * [Nervousnet iOS App Docs](https://github.com/nervousnet/nervousnet-iOS/blob/master/README.md)
 
 ## Submitting Axons to Nervousnet Space
    1. Fork this repository.
