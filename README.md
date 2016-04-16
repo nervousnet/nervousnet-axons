@@ -1,7 +1,7 @@
 #### WORKING DRAFT. ANYTHING IN THIS DOCUMENT CAN CHANGE UNEXPECTEDLY.
 
 # Nervousnet Axons
-Axons let you visualise and manipulate your phones sensor data.
+Axons let you visualise and manipulate your phones sensor data using the [nervousnet Android](https://github.com/nervousnet/nervousnet-android) or [iOS](http://nervousnet.github.io/nervousnet-iOS) apps. You can get Axons from the __nervousnet Space__ accessible within the apps. 
 
 
 ## How to Make an Axon
