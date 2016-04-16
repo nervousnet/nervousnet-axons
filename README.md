@@ -7,7 +7,7 @@ Axons let you visualise and manipulate your phones sensor data using the [nervou
 ## How to Make an Axon
 Take a look at the example axon, fork and modify it:
    1. Fork [Example Axon](https://github.com/bitmorse/axon-one).
-   2. Modify your axon by changing `axon.html` and `axon.js` to do what you like.
+   2. Modify your axon by changing `axon.html` and `axon.js` to do what you like. A [UI framework]( http://code.kik.com/app/3/index.html) is included for your convenience.
    3. Submit `package.json` [here](https://github.com/nervousnet/nervousnet-axons/issues/new) and it will be added to the *nervousnet space* in the apps.
 
 ## Getting Sensor Data from Phone
