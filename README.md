@@ -22,8 +22,7 @@ Call these local URLs from within the Axon code to get real time sensor data of 
    * [Nervousnet Android App Docs](https://github.com/nervousnet/nervousnet-android/tree/master/Documents)
    * [Nervousnet iOS App Docs](http://nervousnet.github.io/nervousnet-iOS/docs/jazzy/)
 
-## Submitting Axons to Nervousnet
+## Submitting Axons to Nervousnet Space
    1. Fork this repository.
    2. Add your axon's `package.json` under a __new name__ in the `contrib` or `testing` directory. __Note__: Axons added to the `testing` directory are immediately available on the Testflight version of the app.
    3. Send us a [pull request](https://yangsu.github.io/pull-request-tutorial/) and your axon will be available shortly.
-
