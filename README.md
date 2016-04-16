@@ -14,7 +14,7 @@ Take a look at the example axon, fork and modify it:
    3. Submit `package.json` [here](https://github.com/nervousnet/nervousnet-axons/issues/new) and it will be added to the *nervousnet Space* in the Android and iOS apps by us.
    4. Download and install your Axon from the *nervousnet Space* in the Android and iOS apps.
 
-## Getting Sensor Data from Phone
+## Getting Sensor Data from Your Phone
 Call these local URLs from within the Axon code to get real time sensor data of your phone
    * http://localhost:8080/nervousnet-api/raw-sensor-data/GPS
    * http://localhost:8080/nervousnet-api/raw-sensor-data/Accelerometer
