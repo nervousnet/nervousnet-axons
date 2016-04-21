@@ -1,5 +1,5 @@
 # Nervousnet Axons
-Axons let you visualise and manipulate your phones sensor data using the [nervousnet Android](https://github.com/nervousnet/nervousnet-android) or [iOS](https://github.com/nervousnet/nervousnet-iOS) apps. You can get Axons from the __nervousnet Space__ accessible within the apps. 
+Axons let you visualise and manipulate your phones sensor data using the [nervousnet Android](https://github.com/nervousnet/nervousnet-android) or [iOS](https://github.com/nervousnet/nervousnet-iOS) apps. You can get Axons from the __nervousnet Space__ accessible within the apps. Axons are not standalone applications and cannot run without the nervousnet Android or iOS app.
 
 
 ## How to Make an Axon
