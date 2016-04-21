@@ -1,5 +1,5 @@
 {
-  "author": "Sam Sulaimanov <sam@bitmorse.com>",
+  "author": "Lewin",
   "license": "MIT",
   "name": "axon-lewin",
   "title": "Axon Lewin",
@@ -11,10 +11,10 @@
     "url": "https://github.com/lewinernst/axon-lewin.git"
   },
   "bugs": {
-    "url": "https://github.com/bitmorse/axon-one/issues"
+    "url": "https://github.com/lewinernst/axon-lewin/issues"
   },
   "keywords": [
     "axon",
-    "demo"
+    "lewin"
   ]
 }
