@@ -19,6 +19,7 @@ Call these local URLs from within the Axon code to get real time sensor data of 
    * http://localhost:8080/nervousnet-api/raw-sensor-data/Magnetometer
    * http://localhost:8080/nervousnet-api/raw-sensor-data/Gyroscope
    * http://localhost:8080/nervousnet-api/raw-sensor-data/BLE
+   * more methods that allow saving data to phone and more coming in future releases
 
 ## Documentation
    * [Nervousnet Android App Docs](https://github.com/nervousnet/nervousnet-android/tree/master/Documents)
