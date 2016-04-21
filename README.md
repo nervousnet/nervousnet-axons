@@ -11,6 +11,7 @@ Take a look at the example axon, fork and modify it:
        * Testing Axons on the phone is easy, as your code is redownloaded from your GitHub repo when you press the special refresh button  (this is why step 1 is important).
    3. Submit `package.json` [here](https://github.com/nervousnet/nervousnet-axons/issues/new) and it will be added to the *nervousnet Space* in the Android and iOS apps by us.
    4. Download and install your Axon from the *nervousnet Space* in the Android and iOS apps.
+![axon example](https://i.imgur.com/7PyaS50.png)
 
 ## Getting Sensor Data from Your Phone
 Call these local URLs from within the Axon code to get real time sensor data of your phone
