@@ -28,3 +28,10 @@ Call these local URLs from within the Axon code to get real time sensor data of 
    1. Fork this repository.
    2. Add your axon's `package.json` under a __new name__ in the `contrib` or `testing` directory. __Note__: Axons added to the `testing` directory are immediately available on the Testflight version of the app.
    3. Send us a [pull request](https://yangsu.github.io/pull-request-tutorial/) and your axon will be available shortly.
+
+## Debugging Axons
+   1. Open the Axon in the nervousnet app on your phone or simulator.
+   2. Open Safari and [enable the develop menu](http://macs.about.com/od/usingyourmac/qt/safaridevelop.htm).
+   3. Go to "Develop" and select your phone or simulator (see screenshot), then the axon.html page.
+   4. A web inspector will open, with which you have full debugging access (editing code, breakpoints, network analysis, etc)
+   ![safari](https://i.imgur.com/Q7XcwH7.png)
