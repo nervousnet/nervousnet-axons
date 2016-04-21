@@ -33,5 +33,7 @@ Call these local URLs from within the Axon code to get real time sensor data of 
    1. Open the Axon in the nervousnet app on your phone or simulator.
    2. Open Safari and [enable the develop menu](http://macs.about.com/od/usingyourmac/qt/safaridevelop.htm).
    3. Go to "Develop" and select your phone or simulator (see screenshot), then the axon.html page.
-   4. A web inspector will open, with which you have full debugging access (editing code, breakpoints, network analysis, etc)
+   4. An inspector will open, with which you have full debugging access (editing code, breakpoints, network analysis, etc). This is also where you'll see console.log messages.
    ![safari](https://i.imgur.com/Q7XcwH7.png)
+
+   ![inspector](https://i.imgur.com/MlBa6TD.png)
